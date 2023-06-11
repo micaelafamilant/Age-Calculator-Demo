@@ -58,6 +58,9 @@ Users should be able to:
 
 ## My process
 
+1. HTML file was given already completed.
+2. Design with CSS.
+
 ### Built with
 
 - Semantic HTML5 markup
